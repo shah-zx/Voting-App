@@ -1,0 +1,3 @@
+Here in this project we are going to make a voting app using MERN
+
+An app where the user can give vote to a set of candidates
